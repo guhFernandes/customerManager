@@ -42,7 +42,7 @@
                 </li>
             </ul>
             <div class="col-lg-2 col-sm-12 nav-item dropdown">
-                <a class="nav-link dropdown-toggle text-white text-center fs-4" href="#" role="button"
+                <a class="nav-link dropdown-toggle text-black text-center fs-4" href="#" role="button"
                 data-bs-toggle="dropdown" aria-expanded="false">
                     {{ Auth::user()->name }}
                 </a>
